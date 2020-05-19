@@ -1,1 +1,1 @@
-{"trim": "", "base": "35ca97c", "trimbase": "", "parent": "debian/foxy/spdlog_vendor", "previous": "ceaf8b4"}
+{"base": "f3d75dc", "parent": "debian/testing/spdlog_vendor", "previous": "0c9045a", "trim": "", "trimbase": ""}
